@@ -236,5 +236,6 @@ This project is licensed for educational and personal use.
 ---
 
 # Author
+soumyajit-cys
 
-Developed using Python and OpenCV.
+
